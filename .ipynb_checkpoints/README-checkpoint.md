@@ -1,3 +1,0 @@
-# comm4190_F25_TikTok_Task
-
-TikTok Task broad overview
